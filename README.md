@@ -48,5 +48,6 @@ In order to run and test this file properly, please follow the steps below
 *************TEST SET-UP*************
 - To test the application, please be sure to run 'npm run seed' BEFORE and AFTER every modification to the database and test runs
 - Run 'npm test' to test the Jest suites I have set up
+- Whether on the Docker Container, or from your machines enviornment, the best way to test the routes is to use Insomnia or Postman. Feel free to play around with the routes!
 
 - Thats it! I hope my submission is up to par!
