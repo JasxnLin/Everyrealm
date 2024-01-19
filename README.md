@@ -11,6 +11,7 @@ In order to run and test this file properly, please follow the steps below
       - Create a database called everyrealm with 'CREATE DATABASE everyrealm;'
       - Connect to your new database with \c everyrealm
       - use the following commands to initialize your tables (copy and paste)
+
           CREATE TABLE burrito (
               burrito_id SERIAL PRIMARY KEY,
               name VARCHAR(255) NOT NULL,
